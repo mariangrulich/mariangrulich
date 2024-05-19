@@ -1,8 +1,8 @@
 # Ročníkový projekt 2.0
 ## Zadání
-V druhém pololetí jsem se pustil do zapojení subwooferu s LED páskem pod dveřmi.
+V druhém pololetí jsme se pustili do zapojení subwooferu s LED páskem pod dveřmi.
 ## Stav projektu
-Mám zapojený subwoofer z baterky přes kabel vedený pod plasty a vyveden v kufru na subwoofer přes střídavý jistič 25A. Odběr bude kolem 20A.
+Máme zapojený subwoofer z baterky přes kabel vedený pod plasty a vyveden v kufru na subwoofer přes střídavý jistič 25A. Odběr bude kolem 20A.
 LED pásek je veden pouze z dveří od kabelů na žárovku.
 ## Průběh zhotovení 
 Nejdříve jsme natahali kabely od baterky až do kufru k subwooferu.

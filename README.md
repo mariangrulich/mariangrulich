@@ -19,11 +19,16 @@ LED pásek se pájel ke kabelům k žárovce i na samotný LED pásek, který se
 ## Koncové zapojení
 ![IMG_3423](https://github.com/mariangrulich/mariangrulich/assets/154463594/8ac57b4c-7523-4060-ab7d-9369e979aef2)
 Jak hraje Vám případně pošlu do chatu
-## 
+## Subwoofer
+![IMG_3465](https://github.com/mariangrulich/mariangrulich/assets/154463594/e22f06ff-6581-43a1-ba73-9aee3507f680)
+
 ## Pájení LED pásku
 ![IMG_3462](https://github.com/mariangrulich/mariangrulich/assets/154463594/ae403231-39fc-4ec9-94cc-b786ed1ee7cd)
 ## Zapojování
 ![IMG_3463](https://github.com/mariangrulich/mariangrulich/assets/154463594/ce54a7ca-3448-4a2a-846f-8bc2d5534b92)
 ## Přidělávání 
 ![IMG_3477](https://github.com/mariangrulich/mariangrulich/assets/154463594/ca741cd1-7037-4a4d-8322-a10aff088026)
-
+## Pracovníci
+Já a Adam Pfeifer
+## Zdroje
+Naše zkušenosti případně můj taťka.

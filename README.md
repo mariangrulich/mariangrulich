@@ -19,6 +19,7 @@ LED pásek se pájel ke kabelům k žárovce i na samotný LED pásek, který se
 ## Koncové zapojení
 ![IMG_3423](https://github.com/mariangrulich/mariangrulich/assets/154463594/8ac57b4c-7523-4060-ab7d-9369e979aef2)
 Jak hraje Vám případně pošlu do chatu
+## 
 ## Pájení LED pásku
 ![IMG_3462](https://github.com/mariangrulich/mariangrulich/assets/154463594/ae403231-39fc-4ec9-94cc-b786ed1ee7cd)
 ## Zapojování
